@@ -1,6 +1,6 @@
 <div align="center">
 
-- [@coltonios](https://twitter.com/coltonios)
+[@coltonios](https://twitter.com/coltonios)
 
 ``` 
 iOS Developer, UI Designer for Capsule Package Manager
