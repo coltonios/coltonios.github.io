@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/coltonios/coltonios.github.io/blob/master/CydiaIcon.png" width="250" height="250" />
+<img src="https://github.com/coltonios/coltonios.github.io/blob/master/CydiaIcon.png" width="320" height="460" />
 
 [@coltonios](https://twitter.com/coltonios)
 
