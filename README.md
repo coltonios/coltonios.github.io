@@ -1,5 +1,7 @@
 <div align="center">
 
+![coltonios logo](https://github.com/coltonios/coltonios.github.io/blob/master/CydiaIcon.png)
+
 [@coltonios](https://twitter.com/coltonios)
 
 ``` 
