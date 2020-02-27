@@ -1,6 +1,6 @@
 <div align="center">
 
-![coltonios logo](https://github.com/coltonios/coltonios.github.io/blob/master/CydiaIcon.png)
+![coltonios logo](https://github.com/coltonios/coltonios.github.io/blob/master/CydiaIcon.png =250x250)
 
 [@coltonios](https://twitter.com/coltonios)
 
