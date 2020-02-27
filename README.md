@@ -1,2 +1,14 @@
-# coltonios repo is the best repo ever add it right now lololololol
-This is the best repo of all time so add it right now srub.
+<div align="center">
+
+- [@coltonios](https://twitter.com/coltonios)
+
+``` 
+iOS Developer, UI Designer for Capsule Package Manager
+```
+
+</div>
+
+## Development
+
+- Capsule Package Manager (Package Manager for Jailbroken Devices)</br>
+- Flik (Social Media Application Coming Soon)</br>
