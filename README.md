@@ -13,4 +13,4 @@ iOS Developer, UI Designer for Capsule Package Manager
 ## Development
 
 - [@try_capsule](https://twitter.com/try_capsule) Package Manager for Jailbroken Devices</br>
-- Flik (Social Media Application Coming Soon)</br>
+- [@Flikchat](https://instagram.com/flikchat)</br>
